@@ -1,0 +1,5 @@
+PyQt6
+
+Move to file folder: C:\Users\Sandeep\Downloads\image_overlay_app\image_overlay> 
+
+Run cmd : python -m image_overlay.main

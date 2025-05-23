@@ -1,0 +1,2 @@
+[console_scripts]
+image-overlay-app = image_overlay_app.main:main

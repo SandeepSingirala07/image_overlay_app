@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: image_overlay_app
+Version: 1.0.0
+Summary: A draggable image overlay application with zoom and opacity controls.
+Home-page: https://your-repo-url.com
+Author: Your Name
+Requires-Dist: PyQt6
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
